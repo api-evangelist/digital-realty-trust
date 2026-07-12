@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/digitalrealty
+  - url: https://www.digitalrealty.com/resources/blog
+    type: Blog
 apis: []

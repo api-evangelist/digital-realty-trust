@@ -1,6 +1,10 @@
 aid: digital-realty-trust
 url: https://raw.githubusercontent.com/api-evangelist/digital-realty-trust/refs/heads/main/apis.yml
 name: Digital Realty Trust
+tags:
+- Data Center
+- Colocation
+- Interconnection
 type: Index
 deliveryModel:
   model: unknown
